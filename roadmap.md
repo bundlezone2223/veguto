@@ -1,0 +1,12 @@
+- [x] Change article card thumbnails to 2.037:1.
+- [x] Share the wide-screen Quick nav sidebar across all content pages.
+- [x] Reduce article cover width by 20% and verify layouts.
+- [x] Rearrange footer branding, description and smaller gray-to-pink social icons; use a solid divider.
+- [x] Fit pinned Quick nav to screen height without scrolling and add More for overflow links.
+- [x] Verify footer and sidebar interactions on wide and narrow screens.
+- [x] Make footer icons pink on touch and the separator pink.
+- [x] Replace Quick nav pagination with a matching More row and adjacent overflow window.
+- [x] Improve article heading and body readability without changing colors or layout.
+- [x] Verify touch, overflow navigation and article typography.
+- [x] Thicken the pink footer separator and update all social destinations.
+- [x] Share homepage sections with Quick nav, mobile menu and All articles filters; verify section navigation.
