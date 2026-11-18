@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "hero": {
+    "visible": false,
+    "kicker": "welcome to",
+    "title": "Veguto Wiki",
+    "subtitle": "Your cozy guide to anime, VTubing, cozy games, kawaii & dark aesthetics, and the soft little community in between. 🌸",
+    "searchPlaceholder": "Search articles, tags, vibes...",
+    "showSearch": true
+  },
+  "stats": {
+    "visible": true,
+    "items": [
+      {
+        "value": "26+",
+        "label": "articles & guides"
+      },
+      {
+        "value": "8+",
+        "label": "cozy categories"
+      },
+      {
+        "value": "100+",
+        "label": "tags to explore"
+      },
+      {
+        "value": "14k+",
+        "label": "monthly visitors"
+      }
+    ]
+  },
+  "latest": {
+    "visible": true,
+    "count": 4
+  },
+  "quickNav": [
+    {
+      "emoji": "🏠",
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "emoji": "📚",
+      "label": "All articles",
+      "href": "/articles"
+    },
+    {
+      "emoji": "🏷️",
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "emoji": "✨",
+      "label": "About the wiki",
+      "href": "/about"
+    }
+  ],
+  "sections": [
+    {
+      "slug": "video-games",
+      "emoji": "🎮",
+      "label": "Video Games",
+      "visible": true
+    },
+    {
+      "slug": "anime",
+      "emoji": "🌙",
+      "label": "Anime",
+      "visible": true
+    },
+    {
+      "slug": "animation",
+      "emoji": "🎬",
+      "label": "Animation",
+      "visible": true
+    },
+    {
+      "slug": "horror-games",
+      "emoji": "🩸",
+      "label": "Horror Games",
+      "visible": true
+    },
+    {
+      "slug": "psychological-horror",
+      "emoji": "🧠",
+      "label": "Psychological Horror",
+      "visible": true
+    },
+    {
+      "slug": "isekai",
+      "emoji": "🌀",
+      "label": "Isekai",
+      "visible": true
+    },
+    {
+      "slug": "indie-rpg-games",
+      "emoji": "🕹️",
+      "label": "Indie RPG Games",
+      "visible": true
+    }
+  ],
+  "featured": [
+    {
+      "id": "anime",
+      "emoji": "🌙",
+      "title": "Everything About",
+      "highlight": "Anime",
+      "category": "Anime",
+      "limit": 6,
+      "visible": true
+    }
+  ],
+  "discord": {
+    "visible": true,
+    "label": "Join our Discord",
+    "url": "https://discord.gg/"
+  },
+  "updatedAt": 1795004244002
+}
